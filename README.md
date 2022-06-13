@@ -12,9 +12,7 @@ Monitoring software RAID devices status with Zabbix template.
 - Linux Software RAID (Multiple Devices)
 
 ### Zabbix
-- 3.4
-- 4.0
-
+- 6.0
 ## How to Install
 ### UserParameter Config
 - Copy "UserParameter Config" file (conf) to /etc/zabbix/zabbix_agentd.d and restart Zabbix agent.  
@@ -22,5 +20,4 @@ Monitoring software RAID devices status with Zabbix template.
 ### Template
 - Import the template file (xml) and assign it to the host monitored.
 
-## Author
-[@bloodiadotnet](https://twitter.com/bloodiadotnet)
+
